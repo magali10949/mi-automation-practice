@@ -16,7 +16,7 @@
 
 ## Día 2 – GitHub & CLI
 
-- [x] Instalé GitHub CLI (`gh`) en Warp
-- [x] Autenticación completada como `magali10949`
-- [x] Verifiqué repos con `gh repo list`
-- [x] Confirmé estado con `gh auth status`
+- ✅ Instalé GitHub CLI (`gh`) en Warp
+- ✅ Autenticación completada como `magali10949`
+- ✅ Verifiqué repos con `gh repo list`
+- ✅ Confirmé estado con `gh auth status`
